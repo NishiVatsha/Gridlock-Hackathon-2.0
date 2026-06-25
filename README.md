@@ -151,14 +151,18 @@ Gridlock-Hackathon-2.0/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Gridlock-Hackathon-2.0.git
+git clone https://github.com/NishiVatsha/Gridlock-Hackathon-2.0.git
 cd Gridlock-Hackathon-2.0
 ```
 
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+### Install Dependencies
+
+```bash
+pip install pandas numpy scikit-learn xgboost optuna pygeohash jupyter
+```
 ```
 
 ### Launch Notebook
