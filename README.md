@@ -141,7 +141,11 @@ Gridlock-Hackathon-2.0/
 ├── model.ipynb              # Model development notebook
 ├── submission.csv           # Final predictions
 ├── README.md
-├── requirements.txt
+├── ### Install Dependencies
+
+```bash
+pip install pandas numpy scikit-learn xgboost optuna pygeohash jupyter
+```
 └── .gitignore
 ```
 
